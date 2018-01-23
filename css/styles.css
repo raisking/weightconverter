@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
+body{
+    margin-top: 70px;
+    background:  rgb(192, 183, 183);
+    font-family: 'Righteous', cursive;
+}
+.card-primary{
+    background-color: rgb(45, 197, 184);
+}
+.card-success{
+    background-color: rgb(150, 84, 211);
+}
+.card-danger{
+    background-color: rgb(45, 160, 10);
+}
